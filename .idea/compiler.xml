@@ -12,10 +12,10 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="chat-client" target="1.8" />
-      <module name="dataaccess" target="1.8" />
-      <module name="persistence" target="1.8" />
-      <module name="web" target="1.8" />
+      <module name="chat-client" target="1.5" />
+      <module name="dataaccess" target="1.5" />
+      <module name="persistence" target="1.5" />
+      <module name="web" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
