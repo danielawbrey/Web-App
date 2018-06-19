@@ -3,8 +3,8 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <parent>
-        <artifactId>chat-client</artifactId>
-        <groupId>com.example</groupId>
+        <artifactId>web-app</artifactId>
+        <groupId>web-app</groupId>
         <version>0.0.1-SNAPSHOT</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
@@ -14,7 +14,7 @@
 
     <dependencies>
         <dependency>
-            <groupId>com.example</groupId>
+            <groupId>web-app</groupId>
             <artifactId>dataaccess</artifactId>
             <version>0.0.1-SNAPSHOT</version>
         </dependency>
