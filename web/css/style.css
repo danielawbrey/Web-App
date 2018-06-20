@@ -1,0 +1,131 @@
+body {
+    background-color: black;
+}
+
+.table {
+    column-count: 2;
+    display: table;
+    margin-left: 7%;
+    float: left;
+    width: 100%;
+    overflow: hidden;
+}
+
+.rightColumn, .leftColumn {
+    float: left;
+    padding-bottom: 100%;
+    margin-bottom: -100%;
+}
+
+.leftColumn {
+    margin-top: 0;
+    display: table-column;
+    float: left;
+    background-color: #cdb3d6;
+    width: 20%;
+    text-align: center;
+}
+
+.rightColumn {
+    display: table-column;
+    float: right;
+    width: 80%;
+}
+
+#header {
+    height: 100px;
+    float: left;
+    width: 80%;
+    text-align: center;
+    background-color: rebeccapurple;
+}
+
+a {
+    text-decoration: none;
+}
+
+#timeBar {
+    float: left;
+    width: 80%;
+    text-align: center;
+    background-color: purple;
+}
+
+h3 {
+    color: white;
+    font-size: 16px;
+}
+
+#contentContainer {
+    float: left;
+    width: 80%;
+    color: white;
+    text-align: center;
+    background-color: rebeccapurple;
+}
+
+form {
+    width: 80%;
+    background-color: white;
+    margin: auto;
+    position: relative;
+}
+
+form h3 {
+    color: black;
+    font-size: 16px;
+    text-align: left;
+}
+
+#textDisplay {
+    margin-top: 20px;
+    width: 60%;
+    height: 500px;
+    margin-bottom: 20px;
+}
+
+#inputBox {
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    height: 100px;
+    margin-bottom: 20px;
+}
+
+#userHeader {
+    display: inline-block;
+    line-height: 68px;
+    background-color: #20008c;
+    width: 100%;
+}
+
+#sendButton {
+  float: left;
+  height: 100px;
+  width: 20%;
+  background-color: #20008c;
+  border: none;
+}
+
+#sendButton h3 {
+  color: white;
+  text-align: center;
+}
+
+#inputField {
+    height: 100px;
+    float: left;
+    width: 80%;
+    border: none;
+}
+
+
+
+
+
+
+
+
+
+
+
