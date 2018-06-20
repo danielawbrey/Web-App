@@ -1,0 +1,55 @@
+!D74OCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Index</title>
+  <script src = "Time.js" type="text/javascript"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.min.js"></script>
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+
+  <div class = "table">
+
+    <div class = "leftColumn">
+      <div id = "userHeader">
+        <h3> Say hello </h3>
+      </div>
+    </div>
+
+    <div class = "rightColumn">
+
+      <div id = "header">
+        <h3>
+          <a href = "Index.html"> <img src = "header.png" class="img-responsive"> </a>
+        </h3>
+      </div>
+
+      <div id = "timeBar">
+        <h3 id = "greeting">
+          <script src = "Time.js"> getGreeting(); </script>
+        </h3>
+
+        <h3 id = "currentTime">
+          <script src = "Time.js"> printTime(); </script>
+        </h3>
+      </div>
+
+      <div id = "contentContainer">
+
+        <form id = "textDisplay">
+        </form>
+
+        <form id = "inputBox">
+          <textarea id = "inputField" type="text"> </textarea>
+          <button id = "sendButton" class = "button">
+            <h3> Send </h3>
+          </button>
+        </form>
+
+      </div>
+    </div>
+  </div>
+</body>
+</html>
