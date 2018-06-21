@@ -1,4 +1,5 @@
 package dao.user;
 
-public class UserLoginDao {
+public interface UserLoginDao {
+    boolean validate(String username, String password);
 }

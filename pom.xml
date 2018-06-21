@@ -10,6 +10,9 @@
         <module>dataaccess</module>
         <module>persistence</module>
         <module>web</module>
+        <module>nosqldataaccess</module>
+        <module>nosql-dataaccess</module>
+        <module>nosql-dataaccess</module>
     </modules>
     <packaging>pom</packaging>
 

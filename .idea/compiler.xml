@@ -7,12 +7,14 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="dataaccess" />
+        <module name="nosql-dataaccess" />
         <module name="persistence" />
         <module name="web" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="dataaccess" target="1.8" />
+      <module name="nosql-dataaccess" target="1.8" />
       <module name="persistence" target="1.8" />
       <module name="web" target="1.8" />
       <module name="web-app" target="1.8" />
