@@ -3,6 +3,9 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dataaccess" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nosql-dataaccess" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nosql-dataaccess" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nosqldataaccess" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/persistence" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/web" charset="UTF-8" />
   </component>

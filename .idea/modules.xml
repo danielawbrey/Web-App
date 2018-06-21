@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/dataaccess/dataaccess.iml" filepath="$PROJECT_DIR$/dataaccess/dataaccess.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nosql-dataaccess/nosql-dataaccess.iml" filepath="$PROJECT_DIR$/nosql-dataaccess/nosql-dataaccess.iml" />
       <module fileurl="file://$PROJECT_DIR$/persistence/persistence.iml" filepath="$PROJECT_DIR$/persistence/persistence.iml" />
       <module fileurl="file://$PROJECT_DIR$/web/web.iml" filepath="$PROJECT_DIR$/web/web.iml" />
       <module fileurl="file://$PROJECT_DIR$/web-app.iml" filepath="$PROJECT_DIR$/web-app.iml" />
